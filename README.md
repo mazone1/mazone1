@@ -1,16 +1,16 @@
-## Hi there 👋
+## baos vindas ao meu perfil 🥇
 
-<!--
-**mazone1/mazone1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estou estudando na alura
 
-Here are some ideas to get you started:
+-estou me desenvolvendo na linguagem javascrit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-utilizo esse espaço para me organizar e compartilhamento de projetos 
+
+### para vc entrar em contato comigo📧
+
+00001068378864sp@al.educacao.sp.gov.br
+
+@mazone
+
+
+<img src="https://media1.tenor.com/m/DYzUq3uX1QgAAAAC/tom-and-jerry-evil.gif" alt="Tom And Jerry Evil GIF - Tom And Jerry Evil Smile GIFs"/>!
